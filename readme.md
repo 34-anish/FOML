@@ -13,3 +13,4 @@ https://www.anaconda.com/download
  To run assignment 02:
  Upload 
  ![460f5403de2c7855ae566b97ca6c60ae.png](./_resources/460f5403de2c7855ae566b97ca6c60ae.png)
+https://colab.research.google.com/drive/10pg05E_q-Y9e6B0Z5LEb8sVSzONebboU
